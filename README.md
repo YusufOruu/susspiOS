@@ -1,4 +1,4 @@
-https://susspios.wuaze.com
+https://susspiosgreatos.wuaze.com
 this is the link of OS wait For New updates
-V 1.0
-os was crashed 06/22/21:27 we are trying to fix this please standby
+V 2.0
+os was fixed 06/30/20205/23:38
